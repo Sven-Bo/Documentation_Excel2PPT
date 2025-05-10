@@ -11,9 +11,9 @@ To customize the settings of the Excel2PPT utility, you need to access the **SET
 3. **Navigate to the mSettings Module**
    * In the VBA editor, locate your workbook under **VBAProject**.
    * Expand the workbook and navigate to **Modules**.
-   * Double-click on the module named **mSettings** to open it.
+   * Double-click on the module named **SETTINGS** to open it.
 4. **Modify the Settings**
-   * Once you have opened the **mSettings** module, you will see a list of configurable settings.
+   * Once you have opened the **SETTINGS** module, you will see a list of configurable settings.
    * You can adjust these values to customize how the Excel2PPT tool functions.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
